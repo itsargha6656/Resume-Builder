@@ -25,14 +25,13 @@
 
 
 <h2><b>💡 How to Use:</b></h2>
-<ol>
-  <li><b>Clone the repo:</b></li>
-  ```git clone https://github.com/itsargha6656/Resume-Builder.git```
-  <li>Open index.html in your browser</li>
-  <li>Fill in the form and click "Generate Resume"</li>
-  <li>Use the print option to save or download your resume as PDF</li>
+<b>1.</b>Clone the repo:
+<br>
 
-</ol>
+```git clone https://github.com/itsargha6656/Resume-Builder.git ```
+<br><br><b>2.</b>Open index.html in your browser
+<br><br><b>3.</b>Fill in the form and click "Generate Resume"
+<br><br><b>4.</b>Use the print option to save or download your resume as PDF
 
 
 
