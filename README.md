@@ -23,9 +23,17 @@
 <li>JavaScript (Vanilla)</li>
 </ul>
 
-<h2><b>📸 Demo:</b></h2>
-<h5>HOME PAGE</h5>
-<br>
+
+<h2><b>💡 How to Use:</b></h2>
+<ol>
+  <li><b>Clone the repo:</b></li>
+  ```git clone https://github.com/itsargha6656/Resume-Builder.git```
+  <li>Open index.html in your browser</li>
+  <li>Fill in the form and click "Generate Resume"</li>
+  <li>Use the print option to save or download your resume as PDF</li>
+
+</ol>
+
 
 
 
